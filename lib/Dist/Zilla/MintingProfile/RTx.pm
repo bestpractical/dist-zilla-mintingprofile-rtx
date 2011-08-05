@@ -14,9 +14,13 @@ Dist-Zilla-MintingProfile-RTx - Basic Minting Profile for RTx modules
 
 =head1 USAGE
 
+    dzil setup # it'll use your author and license info
     dzil new -P RTx RT-Extension-DoesMagicStuff
 
 Stubs in a proper Makefile.PL and README
+
+Your RT extension will still be managed by Module::Install using
+Module::Install::RTx, but Dist::Zilla provides a nice dist creation interface.
 
 =head1 AUTHOR
 
