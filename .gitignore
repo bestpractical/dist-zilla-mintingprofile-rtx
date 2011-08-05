@@ -9,3 +9,4 @@ pod2htm*.tmp
 Dist-Zilla-MintingProfile-RTx*
 README
 *.bak
+*.swp
