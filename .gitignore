@@ -7,7 +7,6 @@ pm_to_blib*
 cover_db
 pod2htm*.tmp
 Dist-Zilla-MintingProfile-RTx*
-README
 *.bak
 *.swp
 MYMETA.*
