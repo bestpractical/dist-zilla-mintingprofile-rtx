@@ -49,7 +49,11 @@ or L<bug-{{$dist->name}}@rt.cpan.org>.
 
 =head1 LICENSE AND COPYRIGHT
 
-{{ $dist->license->notice }}
+This software is Copyright (c) {{ $dist->license->year }} by {{ $dist->license->holder }}
+
+This is free software, licensed under:
+
+  The GNU General Public License, Version 2, June 1991
 
 =cut
 
