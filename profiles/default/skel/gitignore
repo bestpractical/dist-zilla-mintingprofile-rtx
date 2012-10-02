@@ -10,3 +10,5 @@ pod2htm*.tmp
 *.bak
 *.swp
 /MYMETA.*
+/t/tmp
+/xt/tmp
