@@ -8,6 +8,15 @@ our $VERSION = '0.01';
 
 {{$dist->name}} - [One line description of module's purpose here]
 
+=head1 DESCRIPTION
+
+[Why would someone install this extension? What does it do? What problem
+does it solve?]
+
+=head1 RT VERSION
+
+Works with RT [What versions of RT is this known to work with?]
+
 =head1 INSTALLATION
 
 =over
