@@ -32,7 +32,11 @@ in case changes need to be made to your database.
 
 =item Edit your F</opt/rt4/etc/RT_SiteConfig.pm>
 
-Add this line:
+If you are using RT 4.2 or greater, add this line:
+
+    Plugin('{{$name}}');
+
+For RT 3.8 and 4.0, add this line:
 
     Set(@Plugins, qw({{$name}}));
 
