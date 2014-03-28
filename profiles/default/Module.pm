@@ -62,7 +62,6 @@ L<bug-{{$dist->name}}@rt.cpan.org|mailto:bug-{{$dist->name}}@rt.cpan.org>
 or via the web at
 L<rt.cpan.org|http://rt.cpan.org/Public/Dist/Display.html?Name={{$dist->name}}>.
 
-
 =head1 LICENSE AND COPYRIGHT
 
 This software is Copyright (c) {{ $dist->license->year }} by {{ $dist->license->holder }}
