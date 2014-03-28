@@ -19,7 +19,7 @@ Works with RT [What versions of RT is this known to work with?]
 
 [Make sure to use requires_rt and rt_too_new in Makefile.PL]
 
-=head1 INSTALLATION 
+=head1 INSTALLATION
 
 =over
 
