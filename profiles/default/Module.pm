@@ -37,7 +37,7 @@ If you are using RT 4.2 or greater, add this line:
 
     Plugin('{{$name}}');
 
-For RT 3.8 and 4.0, add this line:
+For RT 4.0, add this line:
 
     Set(@Plugins, qw({{$name}}));
 
