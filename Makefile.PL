@@ -7,7 +7,7 @@ license  'gplv2';
 install_share 'module' => 'Dist::Zilla::MintingProfile::RTx', 'profiles';
 
 requires 'Dist::Zilla';
-requires 'Module::Install::RTx';
+requires 'Module::Install::RTx', 0.34_04;
 requires 'Module::Install::ReadmeFromPod';
 
 WriteAll;
