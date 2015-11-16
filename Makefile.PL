@@ -10,4 +10,5 @@ requires 'Dist::Zilla';
 requires 'Module::Install::RTx', 0.34_04;
 requires 'Module::Install::ReadmeFromPod';
 
+repository 'https://github.com/bestpractical/dist-zilla-mintingprofile-rtx';
 WriteAll;
