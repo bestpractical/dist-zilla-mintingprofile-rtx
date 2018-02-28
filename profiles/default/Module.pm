@@ -33,15 +33,9 @@ May need root permissions
 
 =item Edit your F</opt/rt4/etc/RT_SiteConfig.pm>
 
-If you are using RT 4.2 or greater, add this line:
+Add this line:
 
     Plugin('{{$name}}');
-
-For RT 4.0, add this line:
-
-    Set(@Plugins, qw({{$name}}));
-
-or add C<{{$name}}> to your existing C<@Plugins> line.
 
 =item Clear your mason cache
 
