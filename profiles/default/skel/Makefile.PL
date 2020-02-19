@@ -1,3 +1,4 @@
+use lib '.';
 use inc::Module::Install;
 {{ ($path = $dist->name) =~ s|-|/|g; '' }}
 RTx     '{{$dist->name}}';
