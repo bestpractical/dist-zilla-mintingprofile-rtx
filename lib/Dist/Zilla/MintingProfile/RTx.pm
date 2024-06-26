@@ -11,7 +11,7 @@ our $VERSION = '0.14';
 
 =head1 NAME
 
-Dist-Zilla-MintingProfile-RTx - Basic Minting Profile for RTx modules
+Dist::Zilla::MintingProfile::RTx - Basic Minting Profile for RTx modules
 
 =head1 USAGE
 
