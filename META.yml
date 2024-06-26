@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'Basic Minting Profile for RTx modules'
 author:
   - 'Kevin Falcone <falcone@bestpractical.com>'
 build_requires:
@@ -25,4 +25,4 @@ requires:
   perl: 5.8.3
 resources:
   license: http://opensource.org/licenses/gpl-license.php
-version: '0.14'
+version: '0.15'
